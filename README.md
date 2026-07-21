@@ -53,8 +53,6 @@ Any content downloaded from the internet should be **deleted by the user within 
 
 ### 真实页面展示
 
-以下为预留并已接入的真实页面图片位置：
-
 ![真实页面截图 1](./img/1783960215333.png)
 
 ![真实页面截图 2](./img/1783960246276.png)
@@ -103,8 +101,6 @@ Any content downloaded from the internet should be **deleted by the user within 
 6. Press `Alt+T` to restore the launcher when hidden
 
 ### Real Page Showcase
-
-The following real page images have been added from the local `img` folder:
 
 ![Real page screenshot 1](./img/1783960215333.png)
 
