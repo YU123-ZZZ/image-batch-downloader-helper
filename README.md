@@ -120,6 +120,4 @@ The following real page images have been added from the local `img` folder:
 
 ## 打赏二维码 / Donation QR
 
-本地图片链接 / Local image link: [yu-donation-qr.png](./yu-donation-qr.png)
-
 <img src="./yu-donation-qr.png" alt="Donation QR" width="420">
