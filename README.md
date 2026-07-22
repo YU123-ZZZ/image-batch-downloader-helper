@@ -1,5 +1,9 @@
 # 图片批量下载助手 / Image Download Helper
 
+<p align="center">
+  <a href="https://github.com/YU123-ZZZ/image-batch-downloader-helper/stargazers"><img src="https://img.shields.io/github/stars/YU123-ZZZ/image-batch-downloader-helper?style=for-the-badge&logo=github&label=Stars&color=ff69b4" alt="Stars"></a><a href="https://github.com/YU123-ZZZ/image-batch-downloader-helper/forks"><img src="https://img.shields.io/github/forks/YU123-ZZZ/image-batch-downloader-helper?style=for-the-badge&logo=github&label=Fork&color=8a7dff" alt="Fork"></a><a href="https://github.com/YU123-ZZZ/image-batch-downloader-helper/watchers"><img src="https://img.shields.io/github/watchers/YU123-ZZZ/image-batch-downloader-helper?style=for-the-badge&logo=github&label=Watch&color=00bcd4" alt="Watch"></a><a href="https://github.com/YU123-ZZZ/image-batch-downloader-helper/issues"><img src="https://img.shields.io/github/issues/YU123-ZZZ/image-batch-downloader-helper?style=for-the-badge&logo=github&label=Issues" alt="Issues"></a><a href="https://github.com/YU123-ZZZ/image-batch-downloader-helper"><img src="https://komarev.com/ghpvc/?username=YU123-ZZZ-image-batch-downloader-helper&label=Views&color=ff69b4&style=for-the-badge" alt="Views"></a>
+</p>
+
 ## 免责声明 / Disclaimer
 
 ### 中文
